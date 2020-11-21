@@ -1,7 +1,7 @@
 # Taller 6 
 ## (Laboratorio): Construcción de programas usando estructuras de selección anidadas - switch - ciclo repetitivo while.
 * * Antes resolver las problemáticas; se solicita revisar los ejemplos expuestos en el proyecto de Netbeans llamado Ejemplos.
-* Resolver las siguientes problemáticas a través del lenguaje de programación Java; usando el IDE de Netbeans. Use la carpeta Problematicas
+* Resolver las siguientes problemáticas a través del lenguaje de programación Java; usando el IDE Netbeans. Use la carpeta Problematicas
 
 ### Problema 1  (uso de switch)
 > Realizar un programa en Java que permita realizar pagos para empresas que ofertan streaming. El programa debe permitir pagar las mensualidades de las siguientes empresas:
